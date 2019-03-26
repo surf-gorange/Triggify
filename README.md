@@ -1,4 +1,4 @@
-![Result](https://i.imgur.com/bTYyoFJ.png)
+![Result](https://i.imgur.com/zajutDR.png)
 ![CMD window](https://i.imgur.com/vpLD6jx.png)
 
 Triggify semi-automatically places teleport triggers above all the surfaces marked with a certain texture, it struggles with certain complex shapes, Those need to be manually deleted.
