@@ -1,6 +1,8 @@
-Triggify semi-automatically places teleport triggers above all the surfaces marked with a certain texture, it struggles with certain complex shapes, just delete those.
+Triggify semi-automatically places teleport triggers above all the surfaces marked with a certain texture, it struggles with certain complex shapes, Those need to be manually deleted.
 
 Some of the faces on the triggers are buggy you can fix it by going into 'Map > Check for problems: 'Fix all (of type).
+
+All triggers are placed into a seperate map called "generated_triggers.vmf" in the same folder as the original map.
 
 Enjoy, GorangeNinja
 
