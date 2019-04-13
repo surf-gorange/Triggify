@@ -4,7 +4,7 @@ from itertools import chain
 from time import sleep
 
 
-# This function converts string ints into ints, and string floats into floats (.vmf's both use ints and floats for coordinates)
+# This function converts string ints into ints, and string floats into floats (.vmf's use both ints and floats for coordinates)
 def num(s):
     try:
         return int(s)
